@@ -4,9 +4,9 @@
     Banner Grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports
 
 
-## USAGE
+# USAGE
 -----------------------------------
-#       W I N D O W S
+##    W I N D O W S
 -----------------------------------
 - open command prompt
 - navigate to  file path
