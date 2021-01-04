@@ -6,7 +6,7 @@
 
 # USAGE
 -----------------------------------
-##    W I N D O W S
+###    W I N D O W S
 -----------------------------------
 - open command prompt
 - navigate to  file path
