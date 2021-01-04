@@ -2,10 +2,10 @@
 
 ## What is banner grabber?
     Banner Grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports
-    [wiki](https://en.wikipedia.org/wiki/Banner_grabbing)
+
 
 ## USAGE
-
+[wiki](https://en.wikipedia.org/wiki/Banner_grabbing)
 -----------------------------------
 #       W I N D O W S
 -----------------------------------
