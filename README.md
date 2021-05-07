@@ -12,6 +12,6 @@
 - type the following command
 >python banner.py <br/>
 
-## _OUTPUT
+### _OUTPUT_
 
 ![Screenshot](./output.JPG)
