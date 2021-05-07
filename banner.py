@@ -29,3 +29,17 @@ def grab_banner(target: str, port: int, timeout=10.0):
     except Exception as e:
         print(e)
         return s.close()
+
+def main(ports: list, target: str):
+    banners = []
+    for port in ports:
+        banner = grab_banner(target, int(port))
+        if banner:
+            banners.append(banner)
+    print(f"Target : {target}")
+    print("Banners: ", banners)
+
+
+ports = input("Enter ports (seperated by ,) > ").split(",")
+target = input("Enter target URL or domain > ")
+main(ports, target)
